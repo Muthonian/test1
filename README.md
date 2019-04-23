@@ -2,7 +2,6 @@
 This is an interesting class
 kjghgf
 
-woh we are adding more 
+woh we are adding more
 add line five
-add line 6 locally 
-
+add line 6 locally
