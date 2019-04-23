@@ -1,2 +1,2 @@
 # test1
-add a second line
+This is an interesting class
